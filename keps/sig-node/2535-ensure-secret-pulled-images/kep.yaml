@@ -18,11 +18,11 @@ approvers:
 prr-approvers:
   - "@johnbelarmic"
 stage: alpha
-latest-milestone: "v1.22"
+latest-milestone: "v1.23"
 milestone:
-  alpha: "v1.22"
-  beta: "v1.23"
-  stable: "v1.25"
+  alpha: "v1.28"
+  beta: "v1.29"
+  stable: "v1.31"
 feature-gates:
   - name: KubeletEnsureSecretPulledImages
     components:
